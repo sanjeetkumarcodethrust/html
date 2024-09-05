@@ -1,0 +1,22 @@
+h2{
+color: blue;
+font-style: initial;
+font-family: cursive;
+font-weight: 900;
+line-height: 30px;
+}
+h1{
+    color: brown;
+    font-weight: 500px;
+    line-height: 43px;
+}
+button{
+    color: aqua;
+    text-align: center ;
+   
+    
+}
+p{
+    text-align: center;
+    font-style: italic;
+}
